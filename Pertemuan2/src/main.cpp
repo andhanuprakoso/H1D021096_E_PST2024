@@ -1,5 +1,7 @@
 #include <Arduino.h>
 
+int yelLED = D1, gredLED = D2, redLED = LED_BUILTIN;
+
 int redLED = D1;
 int yelLED = D0;
 int greLED = D2;
